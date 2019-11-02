@@ -27,13 +27,15 @@ td {
 }
 
 .button_minus_column {
-    margin: 0px 0px 2px 3px;
+    margin: 0px 0px 2px 0px;
+    left: 2px;
     bottom: 100%;
     background-color: #b20000;
 }
 .button_minus_row {
-    margin: 3px 2px 0px 0px;
+    margin: 0px 2px 0px 0px;
     right: 100%;
+    top: 2px;
     background-color: #b20000;
 }
 
